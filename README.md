@@ -1,6 +1,6 @@
 ##  GED-MIDTERM
 
-# Reference: I used the Jump Method and the Base Movement types from the MarioController, The Singleton Base Class code and ScoreCounter code all from In-Class-Activity-2 && Lab Assignment #1. The Singleton Base Class code from that was from Lecture 3: Design Patterns
+# Reference: I used the Jump Method and the Base Movement from the MarioController, The Singleton Base Class code and ScoreCounter code all from In-Class-Activity-2 && Lab Assignment #1. The Singleton Base Class code from that was from Lecture 3: Design Patterns
 https://github.com/Aloyr20/In-Class-Activities-GED.git
 
 # Brief Overview
